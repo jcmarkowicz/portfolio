@@ -9,7 +9,7 @@ Data Science, B.S.
   Exploration of classical machine learning techniques with data cleaning and preprocessing with Python. Compared the performance of ensemble 
   and regression models such as random forrest, lasso, ridge, and elastic nets.  
 - [Covid Prediction from Election Data](Research Poster.pdf)
-  Utilized R posterdown to present regression and exploratory data analysis. Presented research forecasting vaccination rates based on national and county level voting and demographic data. 
+  Utilized R posterdown to present regression and exploratory data analysis. Conducted research forecasting vaccination rates based on national and county level voting and demographic data. 
 - [Graph Construction and BFS with Rust](https://github.com/jcmarkowicz/BreadthFirstSearchDS210/blob/master/src/main.rs)
   Built a graph data structure using Rust functions and custom data types. Coded breadth first search 
   algorithm to sucessfully travese a graph 
