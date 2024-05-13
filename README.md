@@ -8,7 +8,7 @@ Data Science, B.S.
   With R studio, I explore Boston police data regarding shooting incidents over the past decade, and by merging census data, I developed several OLS models to explain   
   significant relationships between shooting incidents and socioeconomic factors. I also perform a geospatial weighted regression to align my analysis with the assumptions of 
   OLS.
-- [Deep Learning Sentiment Analysis Text+AudioDeep](Final Paper - DS 340.pdf) 
+- [Deep Learning Sentiment Analysis Text+Audio](Final Paper - DS 340.pdf) 
   Using BERT and transformer models, I obtained feature embeddings for labeled text and audio data as inputs to Bidirectional LSTM and Feed Forward Neural Network. The project 
   pdf describes the performance of deep learning in comparison to XGBoost and Logistic Regression.[Project Code](SentimentAnalysisCode.pdf)
 - [Delivery Time Prediction](https://colab.research.google.com/drive/1P35NgmgIHbHf4Ywvef-PHm6sno6Z8nV-#scrollTo=mF1rY8m6Mf-7)
